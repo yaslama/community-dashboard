@@ -1,0 +1,27 @@
+{
+    "1.0.0":[ {"name":"android",    "js":"129"}
+            , {"name":"ios",        "js":"114"}
+            , {"name":"blackberry", "js":"150"}
+            , {"name":"symbian",    "js":"57"}
+            , {"name":"webos",      "js":"50"}
+            , {"name":"bada",       "js":"71"}
+            ]
+            ,
+    "1.1.0":[ {"name":"android",    "js":"137"}
+            , {"name":"ios",        "js":"123"}
+            , {"name":"blackberry", "js":"163"}
+            , {"name":"symbian",    "js":"57"}
+            , {"name":"webos",      "js":"50"}
+            , {"name":"bada",       "js":"71"}
+            , {"name":"windows",    "js":"87"}
+            ]
+            ,
+    "1.2.0":[ {"name":"android",    "js":"145"}
+            , {"name":"ios",        "js":"123"}
+            , {"name":"blackberry", "js":"164"}
+            , {"name":"symbian",    "js":"57"}
+            , {"name":"webos",      "js":"50"}
+            , {"name":"bada",       "js":"71"}
+            , {"name":"windows",    "js":"101"}
+            ]
+}

@@ -5,6 +5,7 @@
             , {"name":"symbian",    "js":"57"}
             , {"name":"webos",      "js":"50"}
             , {"name":"bada",       "js":"71"}
+            , {"name":"windows",    "js":"0"}
             ]
             ,
     "1.1.0":[ {"name":"android",    "js":"137"}
